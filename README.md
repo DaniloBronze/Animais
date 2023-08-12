@@ -31,7 +31,7 @@ Este é o código-fonte de uma página web chamada "Animais Fantásticos", que a
 
 Incluímos algumas capturas de tela da página para você conferir:
 
-![2](https://ibb.co/xswsZKV)
+![Descrição da Imagem](https://ibb.co/xswsZKV)
 
 ## 📝 Contribuição
 
